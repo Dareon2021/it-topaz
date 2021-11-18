@@ -1,9 +1,18 @@
 
 #myform {
     /*display: inline-block;*/
-    width: 150px;
+    width: 300px;
     text-align: left;
     padding: 5px;
     font-weight: bold;
 }
 
+/*
+div {
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+}
+*/
