@@ -1,16 +1,8 @@
 
-div {
+#myform {
     display: inline-block;
     width: 150px;
-    text-align: right;
-    padding: 5px;
-    font-weight: bold;
-}
-
-div#myform {
-    display: inline-block;
-    width: 150px;
-    text-align: right;
+    text-align: left;
     padding: 5px;
     font-weight: bold;
 }
