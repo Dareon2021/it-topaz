@@ -1,6 +1,6 @@
 
 #myform {
-    display: block;
+    display: flex;
     width: 150px;
     text-align: left;
     padding: 5px;
