@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title>Positioning Lab</title>
-<style type="text/css">
+<style> 
 * {
 	margin: 0px;
 	padding: 0px;
@@ -30,28 +30,38 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 }
+/* Descendant Selector */
+#wrapper > div{
+  width:370px;
+  height:150px;
+}
+
 #red {
 	background-color: #900;
-}   width
-    height
-    float
+ 
+  float:left;
+}
 #green {
 	background-color: #090;
-}   width
-    height
-    float
+  width:370px;
+  height:150px;
+  float:right;
+}
 #blue {
 	background-color: #00F;
-}   width
-    height
-    float
+  width:370px;
+  height:150px;
+  float:left;
+}
 #purple {
 	background-color: #63C;
-}   width
-    height
-    float
+  width:370px;
+  height:150px;
+  float:right;
+}
 #footer {
 	background-color: #666;
+  clear:both;
 }
 h1 {
 	color: #000;
